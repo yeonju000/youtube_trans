@@ -17,7 +17,6 @@
 - 긴 영상도 자동 분할 처리
 - 타임코드 포함 번역 결과 출력
 
----
 
 ⚠️ ffmpeg는 시스템에 따로 설치되어 있어야 함
 (Ubuntu: sudo apt install ffmpeg, Windows: ffmpeg 바이너리 추가)
