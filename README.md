@@ -24,11 +24,11 @@
 ---
 
 ## 실행 후 입력 예시
-유튜브 링크 입력: https://www.youtube.com/watch?v=xxxxx
-Papago API를 사용할까요? (y/n): y //n 입력하면 구글 번역기 사용
-Papago Client ID 입력: [입력]
-Papago Client Secret 입력: [입력]
-Whisper 모델 크기 선택 (tiny/small/medium/large): small
+유튜브 링크 입력: https://www.youtube.com/watch?v=xxxxx  
+Papago API를 사용할까요? (y/n): y //n 입력하면 구글 번역기 사용  
+Papago Client ID 입력: [입력]  
+Papago Client Secret 입력: [입력]  
+Whisper 모델 크기 선택 (tiny/small/medium/large): small  
 번역 결과는 translated.txt 파일로 저장됨
 
 ---
